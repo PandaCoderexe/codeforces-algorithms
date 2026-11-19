@@ -1,0 +1,993 @@
+{
+  "sources_reviewed": 284,
+  "examples": 158,
+  "originals_checked": true,
+  "compiler": "c++",
+  "standard": "c++20",
+  "sanitizer": "undefined, non-recovering",
+  "compilation": [
+    {
+      "file": "dp/digit_dp/zliczanie_liczb_z_limitem_niezerowych_cyfr.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "dp/digit_dp_maska_agregaty/suma_liczb_z_maska_uzytych_cyfr.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "napisy/anagramy/porownanie_multizbiorow_przez_sortowanie.py",
+      "status": "passed",
+      "kind": "python"
+    },
+    {
+      "file": "grafy/dfs/iteracyjny_dfs_na_dwuwierszowej_planszy.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "zbiory/pierwsze_wystapienie/liczenie_premii_za_nowy_element.py",
+      "status": "passed",
+      "kind": "python"
+    },
+    {
+      "file": "struktury_danych/czestosci/punktowanie_globalnych_czestosci_slow.py",
+      "status": "passed",
+      "kind": "python"
+    },
+    {
+      "file": "tablice/ekstrema/maksimum_po_wykluczeniu_elementu.py",
+      "status": "passed",
+      "kind": "python"
+    },
+    {
+      "file": "binary_search/najblizszy_element_do_roznicy/najblizszy_element_do_roznicy.py",
+      "status": "passed",
+      "kind": "python"
+    },
+    {
+      "file": "binary_search/pierwszy_dzien_osiagniecia_progu/pierwszy_dzien_osiagniecia_progu.py",
+      "status": "passed",
+      "kind": "python"
+    },
+    {
+      "file": "struktury_danych/trie_xor/najblizsza_para_z_progiem.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "dp/kompresja_skladowych/skladowe_siatki_z_odwrocona_przekatna.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "grafy/bfs_parzystosc/najkrotsze_marszruty_dwoch_parzystosci.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "grafy/dag_dp/minimalny_limit_zasobu.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "drzewa/orientacja/jedna_sciezka_dlugosci_dwa.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "matematyka/dwa_wspolczynniki/dwa_wspolczynniki.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "grafy/automat/symulacja_pozycji_kierunku_i_czasu.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "grafy/graf_funkcyjny/osiagalnosc_wyjscia_po_odbiciach.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "zachlanne/wielozbior_progow/wymiana_progow_przedzialowych_w_wielozbiorze.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "zachlanne/serie_zer/upakowanie_blokow_z_jednodniowa_przerwa.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "zachlanne/sortowanie/osiagalnosc_po_rosnacych_wysokosciach.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "drzewa/gasienice/rozpoznawanie_gasienicy_i_silnie_lisci.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "zachlanne/sortowanie_i_symulacja/darmowe_usuniecia_przy_podwajaniu_wag.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "dp/digit_dp_i_wyszukiwanie/suma_prefiksu_ciagu_cyfr_przez_bisekcje_i_digit_dp.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "dp/dp_prefiksowe/minimalny_koszt_prefiksu_z_dwoma_poprzednikami.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "grafy/mosty_lowlink/mosty_i_dwudzielnosc_skladowych.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "matematyka/dzielniki/maksimum_po_parach_dzielnikow.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "drzewa/plecak_warstw/plecak_zero_jedynkowy_rozmiarow_warstw.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "drzewa/plecak_warstw/bitset_i_pakowanie_binarnie.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "sumy_prefiksowe/przedzialy_ilorazu/grupowanie_cen_przez_sufity_ilorazu.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "dp/plecak_rekonstrukcja/plecak_dlugosci_blokow_z_odtwarzaniem_permutacji.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "dp/podzial_cyklu/podzial_cyklu_na_pary_i_trojki.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "drzewa/usuwanie_lisci/usuwanie_lisci_wedlug_parzystosci.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "binary_search/odpowiedz_i_zachlanny_przydzial/bisekcja_minimalnego_przesuniecia_z_przydzialem_nastepnika.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "zliczanie/mex/mex_przez_tablice_obecnosci.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "konstrukcje/odtwarzanie_poprzednika/rekonstrukcja_etykiet_z_roznic_prefiksowych.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "dp/plecak_wazone_zliczanie/wazony_plecak_czestosci.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "drzewa/rerooting/liczba_duzych_poddrzew.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "tablice/prefiksy_sufiksy/minimum_prefiksu_i_maksimum_sufiksu.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "gry/ostatni_ruch_xor/gra_xor_i_parzystosc_ostatniej_roznicy.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "matematyka/teleskopowanie/minimalizacja_sumy_roznic.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "dp/bity_przeniesienie/bitowe_dp_dodawania_z_przeniesieniem.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "dp/optymalizacja_maksimum_prefiksowe/dp_etapow_z_maksimum_prefiksowym.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "dp/graf_wartosci_slownik/zliczanie_sciezek_addytywnych_po_wartosciach.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "ciagi/luki_na_cyklu/najdluzsza_luka_miedzy_jedynkami_na_cyklu.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "zachlanne/parzystosc_i_prefiksy/wyniki_dla_wszystkich_licznosci_z_podzialem_na_parzystosc.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "dp/niezalezne_pozycje_sciezki/maksymalny_niezalezny_zbior_wewnetrznych_pozycji.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "tablice/wklad_lokalny/usuniecie_elementu_a_suma_roznic.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "tablice/sweep_line/aktywne_przedzialy_i_reszty_poteg_dwojki.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "zachlanne/konstrukcja_bitowa/maksymalna_suma_liczb_z_zadanym_xor.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "matematyka/nwd/osiagalnosc_na_cyklu_modulo.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "zachlanne/leksykograficzne/dolaczanie_napisu_na_poczatek_lub_koniec.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "dp/przedzialy/otwarte_przedzialy_stanow_i_dominacja.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "dp/automat_xor/minimalne_poprawki_dwoch_napisow_dla_xor_prefiksowego.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "dp/drzewo_splot_reszt/przekroj_drzewa_o_licznosci_podzielnej_przez_trzy.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "dp/bity_porownania_i_norma_l1/najblizsza_para_z_rozlacznymi_bitami.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "dp/nawiasy_i_automat/zliczanie_i_suma_dlugosci_podciagow_nawiasowych.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "dp/drzewo_dwie_najwieksze_wysokosci/dp_drzewa_z_dwiema_najwiekszymi_wysokosciami.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "drzewa/dwa_przebiegi/wagi_poddrzew_i_sumy_sciezek.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "dp/amortyzowane_grupowanie_mapa/agregacja_stanow_koncowych_przez_scalanie_mapy.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "grafy/dwudzielnosc/klasy_dwudzielnosci_skladowych.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "drzewa/kartezjanskie/drzewo_kartezjanskie_i_wysokosc.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "brute_force/maksima_przedzialow/maksimum_polaczenia_dwoch_profili_przez_maksimum_przedzialu.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "grafy/osiagalnosc/rekonstrukcja_drzewa_z_domkniecia.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "zachlanne/sortowanie_zasob/wzrost_zasobu_z_ograniczonym_budzetem_inwestycji.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "sumy_prefiksowe/koszt_okna/koszt_narzucenia_jednorodnej_decyzji_w_oknie.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "konstrukcje/wstawianie_do_kolejnosci/rekonstrukcja_kolejnosci_przez_wstawianie.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "dp/podzial_na_dobre_przedzialy/podzial_na_nieparzyste_bloki_o_wspolnej_medianie.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "dp/kadane_od_prawej/kadane_od_prawej.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "binary_search/porownywanie_ulamkow_iloczynem/porownywanie_ulamkow_iloczynem.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "matematyka/zliczanie_klas_modulo_cztery/zliczanie_klas_modulo_cztery.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "dp/kafelki_dwa_wiersze/pokrycie_dwoch_wierszy_dominami_z_minimalnym_kosztem.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "binary_search/dopasowanie/maksymalny_mex_i_zachlanne_dopasowanie.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "struktury_danych/lazy_minimum/balansy_progowe_prefiksow.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "brute_force/generowanie_liczb_z_cyfr/generowanie_liczb_z_cyfr.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "dp/digit_dp_najblizsza_liczba/najblizsza_liczba_z_dozwolonych_cyfr.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "dp/zliczanie_aktywnych_podprzedzialow/zliczanie_podprzedzialow_automatem_z_likwidacja_stanow.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "rekurencja/hanoi_z_parametrem/rekurencyjne_przenoszenie_stosow_z_pominietym_prefiksem.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "sumy_prefiksowe/optymalny_punkt_podzialu/optymalny_punkt_podzialu.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "stos_monotoniczny/sumy_maksimow_dla_obrotow/sumy_maksimow_dla_obrotow.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "brute_force/zbiory_kolejnych_wartosci/wykrywanie_podtablic_bedacych_przedzialami_wartosci.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "dp/minimalizacja_maksimum/minimalny_szczyt_ograniczonego_bilansu.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "sumy_prefiksowe/sasiedztwo_na_okregu/sasiedztwo_na_okregu.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "struktury_danych/fenwick/rekonstrukcja_rangi_dwoma_licznikami.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "bity/zachlanne_kupowanie_bitow/zachlanne_kupowanie_bitow.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "bity/zmniejszenie_elementu_przez_xor/zmniejszenie_elementu_przez_xor.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "matematyka/potegowanie/potegowanie_binarne_modulo.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "napisy/parzystosc_dlugosci_blokow/parzystosc_dlugosci_blokow.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "sumy_prefiksowe/nieujemny_bilans_prefiksu/nieujemny_bilans_prefiksu.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "drzewa/kombinatoryka/mediana_trojki_i_sumy_symetryczne.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "dp/lcs_prefiksow_modulo/lcs_sum_prefiksowych_modulo_dziesiec.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "sumy_prefiksowe/sufiksowe_maksimum_prefiksow/sufiksowe_maksimum_prefiksow.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "bloki/progi_dlugosci_i_sumy_sufiksowe/progi_dlugosci_i_sumy_sufiksowe.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "dp/fenwick_aktywacja_offline/maksymalna_suma_z_odstepami_przez_zdarzenia_i_fenwicka.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "matematyka/nwd/niezmiennik_klas_reszt_permutacji.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "sumy_prefiksowe/sumy_odcinkow_po_cieciach/sumy_odcinkow_po_cieciach.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "sumy_prefiksowe/liczenie_blokow_niezgodnosci/liczenie_blokow_niezgodnosci.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "drzewa/dp_przedzialow/przedzialy_lisci_i_cykliczny_porzadek.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "dp/enumeracja_parametru_globalnego/minimalne_zmiany_po_ustaleniu_koncowej_liczby_liter.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "grafy/toposort/ograniczenia_roznicowe_w_dag.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "grafy/eliminacja/zanik_jednego_typu_krawedzi.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "dwa_wskazniki/parowanie_skrajnych_po_sortowaniu/parowanie_skrajnych_po_sortowaniu.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "bity/preprocessing_kosztow_i_sufiksowych_minimow/preprocessing_kosztow_i_sufiksowych_minimow.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "struktury_danych/segment_tree/minimum_maksimum_i_prog_sortowania_xor.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "konstrukcje/okresowa_sekwencja_o_stalej_sumie/okresowa_sekwencja_o_stalej_sumie.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "struktury_danych/segment_tree/maksimum_prefiksowe_przy_obrotach.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "kombinatoryka/zagniezdzone_przedzialy/zagniezdzone_przedzialy_pozycji_i_iloczyn_wyborow.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "zachlanne/wybor_podciagu_dla_dlugosci/wybor_podciagu_po_ustaleniu_docelowej_dlugosci.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "sortowanie/roznice/sortowanie_blokow_roznic_tego_samego_typu.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "napisy/najdluzszy_podciag_naprzemienny_z_bilansem/najdluzszy_podciag_naprzemienny_z_bilansem.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "sortowanie/scalanie_top_m_sufiksu_wierszy/scalanie_top_m_sufiksu_wierszy.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "konstrukcje/wypukla_reszta/podzial_krokow_i_zbalansowanie_reszty.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "zachlanne/uporzadkowane_dopasowanie/dopasowanie_jedynek_w_klasach_parzystosci.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "konstrukcje/grupowanie/rekonstrukcja_wartosci_z_roznic_grup.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "struktury_danych/multiset_i_dodatni_prefiks/multiset_i_dodatni_prefiks.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "konstrukcje/enumeracja_poczatku_rekurencji/enumeracja_dwoch_pierwszych_bitow_rekurencji.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "kombinatoryka/dwumiany/podzial_liczebnosci_na_niepuste_bloki.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "zachlanne/pakiety_i_kolejka/zyskowne_pakiety_transakcji_z_progami_kapitalu.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "sumy_prefiksowe/schodkowa_funkcja_na_dzielnikach/schodkowa_funkcja_na_dzielnikach.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "sumy_prefiksowe/grupowanie_po_ilorazach/grupowanie_po_ilorazach.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "sumy_prefiksowe/tablica_roznicowa_i_weryfikacja/tablica_roznicowa_i_weryfikacja.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "sumy_prefiksowe/prefiksy_prefiksow_i_lower_bound/prefiksy_prefiksow_i_lower_bound.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "binary_search/prefiksy_par_i_monotoniczne_rownanie/prefiksy_par_i_monotoniczne_rownanie.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "dp/osiagalnosc_automatu/osiagalnosc_po_znakach_z_ograniczona_zmiana_wartosci.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "bity/poprzednik_podmaska/najwieksza_podmaska_nieprzekraczajaca_ograniczenia.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "matematyka/sumowanie/staly_ogon_sumy_reszt.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "struktury_danych/fenwick_zbior/eliminacja_granic_sumami_przedzialow.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "struktury_danych/kopiec/najmniejsze_elementy_prefiksu.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "dp/okno_ostatniego_elementu/zliczanie_podzbiorow_z_blokami_zakazanymi_i_obowiazkowymi.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "sumy_prefiksowe/roznicowe_zakazane_przedzialy/dopelnienie_sumy_zakazanych_przedzialow_tablica_roznicowa.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "binary_search/mex_skompresowanych_licznosci_i_podwajanie_potrzeb/mex_skompresowanych_licznosci_i_podwajanie_potrzeb.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "dp/dzielniki_pierwsze_memoizacja/memoizacja_kosztu_po_dzielnikach_pierwszych.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "tablice/normalizacja/ciag_kolejnych_wartosci_po_odjeciu_indeksu.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "zachlanne/dwa_konce_i_parzystosc/przydzial_maksimow_do_dwoch_koncow_z_parzystoscia.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "matematyka/dzielniki/agregacja_wielokrotnosci_dzielnikow.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "bity/licznik_parzystosci_popcount_po_zmianach/licznik_parzystosci_popcount_po_zmianach.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "bity/kod_graya_i_roznice_xor/kod_graya_i_roznice_xor.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "binary_search/izolowane_punkty_i_zachlanne_parowanie/izolowane_punkty_i_zachlanne_parowanie.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "binary_search/suma_wielokrotnosci_i_konstrukcja_blokow/suma_wielokrotnosci_i_konstrukcja_blokow.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "binary_search/maksymalny_wspolny_prog_kosztu/maksymalny_wspolny_prog_kosztu.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "struktury_danych/stos/parowanie_otwarc_i_zamkniec.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "struktury_danych/zliczanie_par/rowne_sygnatury_bez_nakladania.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "matematyka/rozklad_na_czynniki/rdzen_bezkwadratowy_i_parzystosc_prefiksow.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "napisy/nastepne_wystapienia/podciagi_i_liniowe_wklady_przedzialow.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "sumy_prefiksowe/reszty_prefiksow_z_opoznieniem/reszty_prefiksow_z_opoznieniem.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "drzewa/bfs/bfs_z_zablokowanym_wierzcholkiem.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "bity/korygowanie_xor_od_najwyzszego_bitu/korygowanie_xor_od_najwyzszego_bitu.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "dp/graf_acykliczny/sciezka_po_liczbach_wzglednie_pierwszych.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "kombinatoryka/sufiks_i_potegowanie/suma_poteg_po_sufiksie_bez_powtorzen.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "zachlanne/koncentracja_licznosci/maksymalizacja_wypuklej_funkcji_dwoch_licznosci.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "sortowanie/merge_sort/stabilne_sortowanie_przez_scalanie.cc",
+      "kind": "template",
+      "status": "passed"
+    },
+    {
+      "file": "zachlanne/mediana/minimalizacja_sumy_odleglosci.py",
+      "status": "passed",
+      "kind": "python"
+    },
+    {
+      "file": "grafy/bfs/najmniejsza_liczba_skokow.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "zachlanne/nominaly_kanoniczne/zachlanne_rozmienianie_nominalow_kanonicznych.cc",
+      "kind": "cpp",
+      "status": "passed"
+    },
+    {
+      "file": "struktury_danych/fenwick/fenwick_z_budowa_liniowa.cc",
+      "kind": "template",
+      "status": "passed"
+    },
+    {
+      "file": "struktury_danych/persistent_segment_tree/roznice_wersji_i_kty_element.cc",
+      "kind": "template",
+      "status": "passed"
+    },
+    {
+      "file": "struktury_danych/segment_tree/dodawanie_na_przedziale_i_suma.cc",
+      "kind": "template",
+      "status": "passed"
+    },
+    {
+      "file": "struktury_danych/segment_tree/dodawanie_punktowe_i_suma.cc",
+      "kind": "template",
+      "status": "passed"
+    },
+    {
+      "file": "struktury_danych/segment_tree/dodawanie_na_przedziale_i_odczyt_punktu.cc",
+      "kind": "template",
+      "status": "passed"
+    }
+  ],
+  "behavior": [
+    {
+      "name": "DP cyfr: liczba niezerowych cyfr",
+      "source": "1036/dp/1036C.cc",
+      "cases": 100,
+      "status": "passed",
+      "details": "Wyniki zgodne z niezależnym oracle."
+    },
+    {
+      "name": "DP cyfr: suma przy limicie różnych cyfr",
+      "source": "1073/dp/1073E.cc",
+      "cases": 65,
+      "status": "passed",
+      "details": "Wyniki zgodne z niezależnym oracle."
+    },
+    {
+      "name": "Usunięcie elementu i lokalne krawędzie",
+      "source": "2179/implementation/2179B.cc",
+      "cases": 114,
+      "status": "passed",
+      "details": "Wyniki zgodne z niezależnym oracle."
+    },
+    {
+      "name": "Osiągalne reszty modulo",
+      "source": "2180/implementation/2180A.cc",
+      "cases": 189,
+      "status": "passed",
+      "details": "Wyniki zgodne z niezależnym oracle."
+    },
+    {
+      "name": "Zliczanie rozkładów długości bloków",
+      "source": "2256/math/2256D.cc",
+      "cases": 1022,
+      "status": "passed",
+      "details": "Wyniki zgodne z niezależnym oracle."
+    },
+    {
+      "name": "Kwadraty iloczynu prefiksu i elementu",
+      "source": "2275/math/2275F.cc",
+      "cases": 104,
+      "status": "passed",
+      "details": "Wyniki zgodne z niezależnym oracle."
+    },
+    {
+      "name": "Aktywne przedziały i x*lowbit(x)",
+      "source": "2179/implementation/2179H.cc",
+      "cases": 100,
+      "status": "passed",
+      "details": "Wyniki zgodne z niezależnym oracle."
+    },
+    {
+      "name": "Dokładne spacery i sumy podzbiorów",
+      "source": "2109/graph/2109D.cc",
+      "cases": 95,
+      "status": "passed",
+      "details": "Wyniki zgodne z niezależnym oracle."
+    },
+    {
+      "name": "Wszystkie proste ścieżki i XOR",
+      "source": "2135/graph/2135C.cc",
+      "cases": 48,
+      "status": "passed",
+      "details": "Wyniki zgodne z niezależnym oracle."
+    },
+    {
+      "name": "Najbliższa liczba z dozwolonych cyfr",
+      "source": "2228/dp/2228C2.cc",
+      "cases": 115,
+      "status": "passed",
+      "details": "Wyniki zgodne z niezależnym oracle."
+    },
+    {
+      "name": "Usuwanie indeksu z dobrej tablicy",
+      "source": "2259/suffixPrefix_sum/2259G.cc",
+      "cases": 130,
+      "status": "passed",
+      "details": "Wyniki zgodne z niezależnym oracle."
+    },
+    {
+      "name": "Zastępowanie kolekcji jej MEX-em",
+      "source": "2266/binary_search/2266F.cc",
+      "cases": 55,
+      "status": "passed",
+      "details": "Wyniki zgodne z niezależnym oracle."
+    },
+    {
+      "name": "Rozłączne trójki o równym kluczu",
+      "source": "2275/dataStructures/2275C.cc",
+      "cases": 131,
+      "status": "passed",
+      "details": "Wyniki zgodne z niezależnym oracle."
+    },
+    {
+      "name": "Anagramy z krotnościami",
+      "source": "141/sorting/141A.py",
+      "cases": 4,
+      "status": "passed",
+      "details": "Wyniki zgodne z niezależnym oracle."
+    },
+    {
+      "name": "Odległość do mediany",
+      "source": "723/sorting/723A.py",
+      "cases": 40,
+      "status": "passed",
+      "details": "Wyniki zgodne z niezależnym oracle."
+    },
+    {
+      "name": "Pierwszy dzień cyklicznego marszu",
+      "source": "2051/binary_search/2051B.py",
+      "cases": 120,
+      "status": "passed",
+      "details": "Wyniki zgodne z niezależnym oracle."
+    },
+    {
+      "name": "Poprawne podciągi nawiasowe z wzorcem",
+      "source": "2190/dp/2190B2.cc",
+      "cases": 510,
+      "status": "passed",
+      "details": "Wyniki zgodne z niezależnym oracle."
+    },
+    {
+      "name": "Dobre podnapisy pokrywające pozycję",
+      "source": "2276/math/2276E.cc",
+      "cases": 138,
+      "status": "passed",
+      "details": "Wyniki zgodne z niezależnym oracle."
+    },
+    {
+      "name": "Sortowanie przez XOR indeksów po aktualizacji",
+      "source": "2247/segmenttree/2247D.cc",
+      "cases": 115,
+      "status": "passed",
+      "details": "Wyniki zgodne z niezależnym oracle."
+    },
+    {
+      "name": "Rozmieszczenia na dwóch brzegach bez przecięć",
+      "source": "2127/graph/2127D.cc",
+      "cases": 94,
+      "status": "passed",
+      "details": "Wyniki zgodne z niezależnym oracle."
+    },
+    {
+      "name": "Stabilny merge sort",
+      "source": "648/sorting/648B.cc",
+      "file": "sortowanie/merge_sort/stabilne_sortowanie_przez_scalanie.cc",
+      "cases": 610,
+      "status": "passed",
+      "details": "Porównano z naiwną tablicą lub posortowanym wycinkiem. UBSan aktywny."
+    },
+    {
+      "name": "Fenwick z liniową budową",
+      "source": "tree/fenqick.cc",
+      "file": "struktury_danych/fenwick/fenwick_z_budowa_liniowa.cc",
+      "cases": 16720,
+      "status": "passed",
+      "details": "Porównano z naiwną tablicą lub posortowanym wycinkiem. UBSan aktywny."
+    },
+    {
+      "name": "Persistent segment tree",
+      "source": "tree/pst.cc",
+      "file": "struktury_danych/persistent_segment_tree/roznice_wersji_i_kty_element.cc",
+      "cases": 2640,
+      "status": "passed",
+      "details": "Porównano z naiwną tablicą lub posortowanym wycinkiem. UBSan aktywny."
+    },
+    {
+      "name": "Dodawanie na przedziale i suma przedziału",
+      "source": "tree/segTree.cc",
+      "file": "struktury_danych/segment_tree/dodawanie_na_przedziale_i_suma.cc",
+      "cases": 106400,
+      "status": "passed",
+      "details": "Porównano z naiwną tablicą lub posortowanym wycinkiem. UBSan aktywny."
+    },
+    {
+      "name": "Dodawanie punktowe i suma przedziału",
+      "source": "tree/segTree.cc",
+      "file": "struktury_danych/segment_tree/dodawanie_punktowe_i_suma.cc",
+      "cases": 106400,
+      "status": "passed",
+      "details": "Porównano z naiwną tablicą lub posortowanym wycinkiem. UBSan aktywny."
+    },
+    {
+      "name": "Dodawanie na przedziale i odczyt punktu",
+      "source": "tree/segTree.cc",
+      "file": "struktury_danych/segment_tree/dodawanie_na_przedziale_i_odczyt_punktu.cc",
+      "cases": 15200,
+      "status": "passed",
+      "details": "Porównano z naiwną tablicą lub posortowanym wycinkiem. UBSan aktywny."
+    }
+  ],
+  "limitations": "Kompilacja i wybrane próby zachowania nie są dowodem poprawności wszystkich rozwiązań. Status Accepted nie był sprawdzany.",
+  "status": "passed",
+  "behavior_executed": true
+}
