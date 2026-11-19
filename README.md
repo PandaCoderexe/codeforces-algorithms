@@ -4,6 +4,18 @@ Biblioteka 158 przykładów algorytmów i ich wariantów, wybranych po przeczyta
 
 Nazwy plików opisują zastosowaną metodę. Każdy przykład zaczyna się od celu obliczenia, pomysłu, stanu lub niezmiennika, złożoności i przypadków brzegowych. W komentarzu znajduje się też ścieżka oryginału i odnośnik do konkursu albo zadania.
 
+## Znajdź algorytm według celu
+
+Otwórz [Co chcę osiągnąć?](ZASTOSOWANIA.md). Przewodnik grupuje wszystkie 158 przykładów według zastosowań i wyjaśnia warunki wyboru metody.
+
+- [Chcę znaleźć drogę lub sprawdzić osiągalność](ZASTOSOWANIA.md#drogi).
+- [Chcę znaleźć minimum albo maksimum](ZASTOSOWANIA.md#minimum).
+- [Chcę szybko obsługiwać przedziały i aktualizacje](ZASTOSOWANIA.md#przedzialy).
+- [Chcę policzyć sposoby lub podzbiory](ZASTOSOWANIA.md#zliczanie).
+- [Chcę rozwiązać problem na drzewie](ZASTOSOWANIA.md#drzewa).
+- [Chcę znaleźć liczbę spełniającą warunki na cyfrach](ZASTOSOWANIA.md#liczby).
+- [Chcę przyspieszyć kod albo zmniejszyć pamięć](ZASTOSOWANIA.md#optymalizacja).
+
 ## Od czego zacząć
 
 Pozycje oznaczone **Start** pokazują podstawowe lub szczególnie reprezentatywne warianty. Najpierw przeczytaj nagłówek, potem prześledź stan na małym wejściu, a następnie sprawdź granice indeksów i warunki zadania.
